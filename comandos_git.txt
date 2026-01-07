@@ -1,0 +1,8 @@
+git init . (inicia um repositório git)
+git status (mostra a situação atual do diretório git)
+git add nome do arquivo   (coloca a modificação pronta para dar o commit)
+git commit -m "mensagem" (commita os arquivos do diretório)
+git config --global user.email "pedro.hn.reis@hotmail.com" -> confirmação do email
+git config --global user.name "Pedro Reis" -> confirmação do usuário que está realizando o commit
+git log (mostra todo o histórico de commit)
+git diff comandos_git.txt
