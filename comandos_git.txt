@@ -6,3 +6,6 @@ git config --global user.email "pedro.hn.reis@hotmail.com" -> confirmação do e
 git config --global user.name "Pedro Reis" -> confirmação do usuário que está realizando o commit
 git log (mostra todo o histórico de commit)
 git diff comandos_git.txt
+
+
+Teste 1 
