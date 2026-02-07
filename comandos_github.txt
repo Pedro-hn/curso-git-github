@@ -1,0 +1,5 @@
+Funcionalidades dentro do repositório do GitHub.
+
+
+pull request = solicita o merge das branchs secundárias dentro da branch main.
+fork = realiza a cópia do repositório.

@@ -14,4 +14,7 @@ git checkout secundaria -> altera para a branch secundaria
 git merge secundaria -> mescla a branch main com a secundaria
 git branch -D secundaria -> apaga a branch secundaria
 
+git clone -> cria uma pasta local contendo todas as informações/projetos do repositório que você clonou com o fork no GitHub
+
+
 Teste 1 
